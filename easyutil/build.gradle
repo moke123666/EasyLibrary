@@ -3,7 +3,7 @@ plugins {
 }
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.lilongweidev'
+group='com.github.moke123666'
 
 android {
     compileSdkVersion 30
